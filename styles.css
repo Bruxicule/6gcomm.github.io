@@ -1,9 +1,7 @@
 body {
   background-color: bb2649;
   color: white;
-<!--   font-family: "Arial Black", Helvetica, sans-serif;
   font-size: 1em; -->
-  
 }
 #carouselExample1 {
   color: white;
@@ -24,4 +22,9 @@ body {
   width: auto;
   height: auto;
   z-index: -9999;
+}
+.disp1 {
+	background-color: black;
+	color: white;
+	opacity: 70%;
 }
